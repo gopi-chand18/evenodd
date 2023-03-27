@@ -1,0 +1,9 @@
+public class evenodd{
+public static void main(String args[]){
+int n = 32;
+if(n%2==0)
+SYstem.out.println("even");
+else
+System.out.println("odd");
+}
+}
